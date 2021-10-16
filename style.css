@@ -26,33 +26,34 @@ h1 {
     padding: 30px 0;
 }
 
-.btn-main {
+.btn-all {
     padding: 20px;
     border-radius: 40px;
     font-size: 16px;
-    box-shadow: 1px 1px 10px #202020;
+    box-shadow: 1px 2px 5px #5a5757;
     text-transform: uppercase;
 }
 
-.btn-old {
+.btn-origin {
     border: 2px solid #f3976c;
-    background-color: #f3976c;
+    background-color:#f3976c;
     color: #fff;
 }
 
-.btn-old:hover {
+.btn-origin:hover {
     background-color: white;
     color: #f3976c;
     box-shadow: 2px 2px 20px #404040;
 }
 
-.btn-new {
+.btn-update {
     border: 2px solid #f3976c;
-    color: #f3976c;
+    color:#fff ;
+    background-color:#f3976c;
 }
 
-.btn-new:hover {
-    background-color: #f3976c;
-    color: white;
+.btn-update:hover {
+    background-color: white;
+    color: #f3976c;
     box-shadow: 2px 2px 20px #404040;
 }
