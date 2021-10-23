@@ -37,7 +37,7 @@ h1 {
 .btn-origin {
     border: 2px solid #f3976c;
     background-color:#f3976c;
-    color: #fff;
+    color: black;
 }
 
 .btn-origin:hover {
@@ -48,7 +48,7 @@ h1 {
 
 .btn-update {
     border: 2px solid #f3976c;
-    color:#fff ;
+    color:black;
     background-color:#f3976c;
 }
 
